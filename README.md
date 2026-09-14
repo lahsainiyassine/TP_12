@@ -1,3 +1,4 @@
+
 TP 12 Gestion Fichiers/
 ├── bin/
 ├── input.txt                   // Fichier source pour les tests de lecture
@@ -35,6 +36,15 @@ Parsing textuel : Découpage des lignes via split(","), filtrage des en-têtes e
 
 Filtrage déclaratif : Utilisation de l'API Streams pour extraire des enregistrements respectant un prédicat (score >= 50).
 
+
+
+
+
+
+
+https://github.com/user-attachments/assets/da4f381d-afa7-47ea-aefe-17c859696754
+
+
 3. Persistance Binaire et Sérialisation
 Contrat de sérialisation : Implémentation de l'interface marqueur java.io.Serializable sur la classe Record et définition d'un serialVersionUID.
 
@@ -46,3 +56,7 @@ Mode Ajout (Append) : Initialisation d'un flux d'écriture non destructif via ne
 Formatage direct : Emploi de méthodes de haut niveau (printf, println) dispensant de conversions manuelles en chaînes ou en tableaux d'octets.
 
 Encodage de caractères : Spécification explicite du jeu de caractères "UTF-8" lors de la génération de documents structurés (HtmlGenerator).
+
+
+https://github.com/user-attachments/assets/434f9780-97a0-48a5-a603-d6ae2f2b75f6
+
